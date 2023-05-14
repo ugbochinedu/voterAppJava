@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ae02bb7-7e68-4401-be6c-48b8e03ee464" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Durga/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Durga/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Durga/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Durga/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Durga/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Durga/Durga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Durga/src/collections/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/FemiProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/out/production/FemiProject/Exceptions/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/out/production/FemiProject/Exceptions/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/out/production/FemiProject/Exceptions/Sample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/out/production/FemiProject/Exceptions/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/out/production/FemiProject/Exceptions/TrenchesException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/src/Exceptions/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/src/Exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/src/Exceptions/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/src/Exceptions/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FemiProject/src/Exceptions/TrenchesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/request/AdminRegistrationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/request/CreateElectionRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/request/PartyRegistrationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/request/VoterRegistrationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/AdminRegistrationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/CreateElectionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/DeleteAdminResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/DeletePartyResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/DeleteVoterResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/PartyRegistrationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/VoterRegistrationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/exception/AdminRegistrationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/exception/PartyRegistrationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/exception/VoterRegistrationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/mappers/ModelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Election.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/UserInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Voter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AddressRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AddressRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AdminRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AdminRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/ElectionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/ElectionRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/PartyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/PartyRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/UserInformationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/UserInformationRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/VoterRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/VoterRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/ElectionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/PartyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/VoterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/femiAppAdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/femiAppElectionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/femiAppPartyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/femiAppVoterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/utils/AppUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/AddressRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/AdminRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/ElectionRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/PartyRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/UserInformationRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/VoterRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/services/femiAppAdminServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/services/femiAppElectionServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/services/femiAppPartyServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/services/femiAppVoterServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_mongodb_bson_4_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_mongodb_bson_record_codec_4_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_springframework_spring_tx_6_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/dto/responses/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/shitaChibuzoE-commApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/shitaChibuzoE-commApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/data/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/data/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/data/repositories/EventRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/data/repositories/PackageRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/data/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/data/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/data/repositories/UserRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/dto/responses/RegisterUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/dto/responses/RegisterUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/utils/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/utils/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/data/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/data/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/data/repositories/EventRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/data/repositories/PackageRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/data/repositories/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/data/repositories/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/data/repositories/UserRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/dto/responses/RegisterUserResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/dto/responses/RegisterUserResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/services/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/services/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/services/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/utils/Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/target/classes/shita/utils/Mapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/test/shita/services/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/test/shita/services/UserServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PKZIjAKrW5p9uE4gsiuniu3B4T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="africa.semicolon.femiVoteApp.dtos.response" />
+      <recent name="africa.semicolon.femiVoteApp.exception" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="africa.semicolon.femiVoteApp.services" />
+      <recent name="africa.semicolon.femiVoteApp.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.femiAppAdminServiceTest.partyRegistrationTest">
+    <configuration name="PartyRepositoryImplTest.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FemiVoteApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.femiVoteApp.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.femiVoteApp.repositories" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.femiVoteApp.repositories.PartyRepositoryImplTest" />
+      <option name="METHOD_NAME" value="testFindByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="femiAppAdminServiceTest.partyRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FemiVoteApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.femiVoteApp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.femiVoteApp.services" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.femiVoteApp.services.femiAppAdminServiceTest" />
+      <option name="METHOD_NAME" value="partyRegistrationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="femiAppElectionServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FemiVoteApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.femiVoteApp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.femiVoteApp.services" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.femiVoteApp.services.femiAppElectionServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="femiAppPartyServiceTest.partyRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FemiVoteApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.femiVoteApp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.femiVoteApp.services" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.femiVoteApp.services.femiAppPartyServiceTest" />
+      <option name="METHOD_NAME" value="partyRegistrationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="femiAppVoterServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FemiVoteApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.femiVoteApp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.femiVoteApp.services" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.femiVoteApp.services.femiAppVoterServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.femiAppAdminServiceTest.partyRegistrationTest" />
+        <item itemvalue="JUnit.PartyRepositoryImplTest.testFindByName" />
+        <item itemvalue="JUnit.femiAppPartyServiceTest.partyRegistrationTest" />
+        <item itemvalue="JUnit.femiAppVoterServiceTest" />
+        <item itemvalue="JUnit.femiAppElectionServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ae02bb7-7e68-4401-be6c-48b8e03ee464" name="Changes" comment="" />
+      <created>1683207659393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683207659393</updated>
+      <workItem from="1683207661480" duration="8086000" />
+      <workItem from="1683288615890" duration="646000" />
+      <workItem from="1683366731238" duration="46681000" />
+      <workItem from="1683747635203" duration="4770000" />
+      <workItem from="1683792773129" duration="25913000" />
+      <workItem from="1683974691965" duration="33073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
