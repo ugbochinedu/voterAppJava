@@ -10,7 +10,7 @@
       <change afterPath="$PROJECT_DIR$/../Durga/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Durga/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Durga/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Durga/Durga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Durga/lambdaAndRegEx.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Durga/src/collections/TreeSetTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FemiProject/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FemiProject/.idea/misc.xml" afterDir="false" />
@@ -27,69 +27,9 @@
       <change afterPath="$PROJECT_DIR$/../FemiProject/src/Exceptions/Sample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FemiProject/src/Exceptions/Transaction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FemiProject/src/Exceptions/TrenchesException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/request/AdminRegistrationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/request/CreateElectionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/request/PartyRegistrationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/request/VoterRegistrationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/AdminRegistrationResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/CreateElectionResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/DeleteAdminResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/DeletePartyResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/DeleteVoterResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/PartyRegistrationResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/dtos/response/VoterRegistrationResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/exception/AdminRegistrationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/exception/PartyRegistrationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/exception/VoterRegistrationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/mappers/ModelMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Election.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Party.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/UserInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/models/Voter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AddressRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AddressRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AdminRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AdminRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/ElectionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/ElectionRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/PartyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/PartyRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/UserInformationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/UserInformationRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/VoterRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/VoterRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/ElectionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/PartyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/VoterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/femiAppAdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/femiAppElectionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/femiAppPartyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/femiAppVoterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/utils/AppUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/AddressRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/AdminRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/ElectionRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/PartyRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/UserInformationRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/repositories/VoterRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/services/femiAppAdminServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/services/femiAppElectionServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/services/femiAppPartyServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/africa/semicolon/femiVoteApp/services/femiAppVoterServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abibi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selfLearning/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selfLearning/src/main/java/streams.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_mongodb_bson_4_8_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_mongodb_bson_record_codec_4_8_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_8_2.xml" afterDir="false" />
@@ -99,6 +39,10 @@
       <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_4_0_5.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_springframework_spring_tx_6_0_8.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/src/shita/dto/responses/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AdminRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/repositories/AdminRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/africa/semicolon/femiVoteApp/services/AdminService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shitaChibuzoE-commApp/shitaChibuzoE-commApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../shitaChibuzoE-commApp/shitaChibuzoE-commApp.iml" afterDir="false" />
@@ -142,7 +86,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -289,7 +233,10 @@
       <workItem from="1683366731238" duration="46681000" />
       <workItem from="1683747635203" duration="4770000" />
       <workItem from="1683792773129" duration="25913000" />
-      <workItem from="1683974691965" duration="33073000" />
+      <workItem from="1683974691965" duration="35063000" />
+      <workItem from="1684180939442" duration="12452000" />
+      <workItem from="1684416211945" duration="1261000" />
+      <workItem from="1684580716338" duration="689000" />
     </task>
     <servers />
   </component>

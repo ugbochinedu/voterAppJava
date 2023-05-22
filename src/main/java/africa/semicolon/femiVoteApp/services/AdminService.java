@@ -5,7 +5,6 @@ import africa.semicolon.femiVoteApp.dtos.response.AdminRegistrationResponse;
 import africa.semicolon.femiVoteApp.dtos.response.DeleteAdminResponse;
 import africa.semicolon.femiVoteApp.exception.AdminRegistrationException;
 import africa.semicolon.femiVoteApp.models.Admin;
-import africa.semicolon.femiVoteApp.models.Party;
 
 import java.util.List;
 
